@@ -6,6 +6,7 @@ dependencies:
   - jupyterlab
   - pandas
   - scipy
+  - scikit-learn
   - statsmodels
   - pingouin
   - matplotlib
