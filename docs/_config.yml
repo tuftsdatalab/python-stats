@@ -4,4 +4,4 @@ repo: python-stats
 author: Uku-Kaspar Uustalu
 slides: python-stats
 file: python-stats.ipynb
-env: stats
+env: python-stats
