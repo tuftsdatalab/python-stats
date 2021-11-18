@@ -1,0 +1,14 @@
+name: python-stats
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - jupyterlab
+  - pandas
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - pingouin
+  - matplotlib
+  - seaborn
+  - hvplot
