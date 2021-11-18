@@ -34,7 +34,7 @@ Contact: <datalab-support@elist.tufts.edu>
 
 <!-- DO NOT CHANGE ANYTHING ABOVE THIS LINE -->
 
-This hands-on interactive workshop demonstrates implementing various statistical analysis workflows in Python. The workshop notebook is suitable for self-guided study and covers the following:
+This hands-on interactive workshop demonstrates implementing various statistical analysis workflows in Python. The workshop notebook is a work in progress and intends to cover the following:
 
 - **Visualizing** data and conducting **exploratory analysis**
 - Conducting various **statistical hypothesis tests**
